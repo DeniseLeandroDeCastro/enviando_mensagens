@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Enviando Mensagens</string>
+
+    <!--activity_create_message.xml-->
+    <string name="send">Enviar mensagem</string>
+    <string name="hint">Digite sua mensagem</string>
+
+    <!--activity_main.xml-->
+    <string name="btn_create_msg">Criar Mensagem</string>
+
+    <string name="chooser">Enviar mensagem via...</string>
+</resources>
